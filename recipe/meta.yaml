@@ -41,12 +41,12 @@ test:
     - tests
 
 about:
-  home: http://github.com/WhyNotHugo/python-barcode
+  home: https://github.com/WhyNotHugo/python-barcode
   license: MIT
   license_family: MIT
   license_file: LICENCE
   summary: python-barcode provides a simple way to create barcodes in Python.
-  dev_url: http://github.com/WhyNotHugo/python-barcode
+  dev_url: https://github.com/WhyNotHugo/python-barcode
   doc_url: https://python-barcode.readthedocs.io/en/stable/
   description: python-barcode provides a simple way to create barcodes in Python.
 
