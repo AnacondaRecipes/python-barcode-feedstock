@@ -25,12 +25,12 @@ requirements:
     - wheel
   run:
     - python
-    - pillow
 
 test:
   requires:
     - pip
     - pytest
+    - pillow
   commands:
     - pip check
     - python-barcode --help
