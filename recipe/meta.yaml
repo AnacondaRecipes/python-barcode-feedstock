@@ -21,7 +21,8 @@ requirements:
   host:
     - python
     - pip
-    - setuptools_scm
+    - setuptools >=45
+    - setuptools_scm >=6.2
     - wheel
   run:
     - python
