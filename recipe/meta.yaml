@@ -47,7 +47,7 @@ about:
   license_file: LICENCE
   summary: python-barcode provides a simple way to create barcodes in Python.
   dev_url: https://github.com/WhyNotHugo/python-barcode
-  doc_url: https://python-barcode.readthedocs.io/en/stable/
+  doc_url: https://python-barcode.readthedocs.io/
   description: python-barcode provides a simple way to create barcodes in Python.
 
 
