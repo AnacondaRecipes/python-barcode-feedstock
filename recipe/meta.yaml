@@ -30,6 +30,7 @@ test:
   requires:
     - pip
     - pytest
+    # pillow is optional but useful, so let's make sure we test it.
     - pillow
   commands:
     - pip check
